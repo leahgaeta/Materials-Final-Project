@@ -1,6 +1,3 @@
-# Materials-Final-Project
-Final project for mechanics of materials class.
+# Singular Value Decomposition
 
-Task is to build a reinforcement system for a water holding tank, while minimizing costs and staying within the required parameters.
-
-Includes code (MATLAB Live Script), wide flange beam data, and the final report.
+Using singular value decomposition and principles from linear algebra to reconstruct an image of a building at Boston University.
